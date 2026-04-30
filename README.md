@@ -27,5 +27,16 @@ $$\text{Final Score} = (\text{Activity Score} \times 0.5) + (\text{Reach Score} 
 
 ---
 
+### 🚀 How to Run the Code
+To reproduce the analysis and view the results in Google Colab:
+
+1. Open the `DSC_Task.ipynb` file in **Google Colab**.
+2. Click on the **Files** icon (folder icon) in the left-hand sidebar.
+3. Upload the dataset file: `final_influencer_hunt_dirty.csv`.
+4. Run the cells in order (or go to **Runtime > Run all**).
+
+> **Note:** Please do not rename the dataset file. The script is configured to load `final_influencer_hunt_dirty.csv` specifically to ensure the cleaning and scoring logic execute correctly.
+
+---
 ### Results
 The top 5 micro-influencers were identified 
